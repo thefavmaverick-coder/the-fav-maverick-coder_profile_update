@@ -1,29 +1,31 @@
-![The Fav' Maverick — Data Analyst](profile-banner.png)
-
-<h3 align="center">ASPIRING DATA ANALYST | EXCEL • SQL • POWER BI</h3>
+# THE FAV' MAVERICK
 
 <p align="center">
-  <a href="https://ambi-rajan-portfolio.vercel.app">PORTFOLIO</a> •
-  <a href="https://linkedin.com/in/ambi-rajan005">LINKEDIN</a> •
-  <a href="https://github.com/thefavmaverick-coder">GITHUB</a>
+  <img src="profile-banner.png" alt="The Fav' Maverick — Data Analytics" width="100%" />
+</p>
+
+<h3 align="center">Aspiring Data Analyst | SQL • Excel • Power BI</h3>
+
+<p align="center">
+  <a href="https://ambi-rajan-portfolio.vercel.app">Portfolio</a> •
+  <a href="https://linkedin.com/in/ambi-rajan005">LinkedIn</a> •
+  <a href="https://github.com/thefavmaverick-coder">GitHub</a>
 </p>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I'm a Biotechnology graduate building my career in Data Analytics, with an interest in technology, business intelligence, and data-driven problem-solving.
+I am a Biotechnology graduate building my career in **Data Analytics**. I enjoy exploring datasets, identifying trends, developing dashboards, and transforming raw data into meaningful business insights.
 
-I work on practical projects to explore datasets, identify trends, and turn raw data into meaningful insights.
-
-- 📊 Building Excel reports and interactive dashboards
-- 🗄️ Practicing SQL and PostgreSQL for data analysis
-- 📈 Developing Power BI dashboards and DAX measures
-- 🐍 Learning and improving my Python and R programming skills
+- 📊 Developing data analysis projects and interactive dashboards
+- 🗄️ Practicing SQL and PostgreSQL for data querying
+- 📈 Building analytical reports using Excel and Power BI
+- 🐍 Expanding my programming skills with Python and R
 - 🤖 Exploring AI-assisted development and NLP-to-SQL
-- 🌐 Building a professional portfolio of real projects
+- 🌐 Creating projects and documenting my learning journey
 
-## 🛠️ Tech Stack
+## Technical Skills
 
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
@@ -35,51 +37,31 @@ I work on practical projects to explore datasets, identify trends, and turn raw 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📊 Swiggy Food Sales & Performance Analysis
-**Tools:** Microsoft Excel
+| Project | Tools | Focus |
+|---|---|---|
+| Swiggy Food Sales Analysis | Excel | Sales trends and dashboard insights |
+| HR Employee Attrition Analysis | Power BI, DAX | Workforce attrition and HR metrics |
+| Retail Sales Analysis | SQL, PostgreSQL | Business queries and sales analysis |
+| NLP-to-SQL | Python, SQL, LLMs | Converting natural language into SQL |
+| Personal Portfolio Website | HTML, CSS, JavaScript | Showcasing projects and skills |
 
-Analyzed a large food delivery dataset to explore sales performance, category contribution, and geographic trends through interactive dashboards.
+> Replace each project title with a link to its actual GitHub repository before publishing.
 
-[View Repository](https://github.com/thefavmaverick-coder/swiggy-food-sales-analysis)
-
-### 📈 HR Employee Attrition Analysis
-**Tools:** Power BI, DAX
-
-Built an HR analytics dashboard to examine employee attrition, workforce metrics, and trends using interactive visuals and DAX measures.
-
-### 🗄️ Retail Sales Analysis
-**Tools:** SQL, PostgreSQL
-
-Explored retail transactions using SQL queries to investigate sales performance, customer behavior, product categories, and business trends.
-
-### 🤖 NLP-to-SQL
-**Tools:** Python, SQL, LLMs
-
-Explored a workflow for translating natural-language questions into SQL queries using schema context, prompt engineering, validation, and error correction.
-
-### 🌐 Personal Portfolio Website
-**Tools:** HTML, CSS, JavaScript
-
-Developed an AI-assisted personal portfolio website to showcase projects, skills, certificates, and professional links.
-
----
-
-## 📊 GitHub Statistics
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&hide_border=true&theme=transparent&title_color=A7F542&icon_color=A7F542" alt="GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thefavmaverick-coder&show_icons=true&theme=transparent&hide_border=true&title_color=A7F542&icon_color=A7F542" alt="GitHub statistics" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&hide_border=true&theme=transparent&title_color=A7F542" alt="Most used repository languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thefavmaverick-coder&layout=compact&theme=transparent&hide_border=true&title_color=A7F542" alt="Most used languages" />
 </p>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p>
   <a href="https://linkedin.com/in/ambi-rajan005">
@@ -96,5 +78,5 @@ Developed an AI-assisted personal portfolio website to showcase projects, skills
 ---
 
 <p align="center">
-  <b>LEARN • BUILD • ANALYZE • GROW</b>
+  <i>Learn continuously. Build consistently. Grow through data.</i>
 </p>
