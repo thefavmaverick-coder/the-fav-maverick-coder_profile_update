@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="profile-banner.png" alt="The Fav' Maverick — Data Analytics" width="100%"/>
+<img src="profile-banner .png" alt="The Fav' Maverick — Data Analytics" width="100%"/>
 
 # THE FAV' MAVERICK
 
